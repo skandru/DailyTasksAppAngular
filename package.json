@@ -1,0 +1,21 @@
+{
+  "name": "dailytasks",
+  "version": "1.0.0",
+  "description": "Daily important tasks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.2",
+    "bootstrap-sass": "^3.3.7",
+    "bootswatch": "^4.1.2",
+    "cors": "~2.8.3",
+    "express": "~4.15.3",
+    "mongoose": "~4.11.0",
+    "ng2-bootstrap": "^1.6.3",
+    "ngx-bootstrap": "^3.0.1"
+  },
+  "author": "Suresh Kandru",
+  "license": "ISC"
+}
